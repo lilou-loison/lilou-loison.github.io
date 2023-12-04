@@ -8,6 +8,10 @@ and open the template in the editor.
     Author     : lilou.loison
 */
 
+body {
+    background-image: url("F1 23.jpg");
+} 
+
  /* The navigation bar */
 .navbar {
   overflow: hidden;
